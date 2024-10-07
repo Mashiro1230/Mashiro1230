@@ -1,10 +1,9 @@
 ## 👋 Hi there 
-- 
--
--
+- 🌱 I’m currently learning Next.js,TypeScript,Jest/Testing Library
+- 📫 How to reach me risa.k.with@gmail.com
 
 ## 🌱 Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,docker,aws,flutter,dart,mysql,postgres,prisma,firebase,jest,vitest,github,postman,vscode,figma,ai,ps,pr,xd,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,docker,aws,flutter,dart,mysql,postgres,prisma,firebase,jest,vitest,github,postman,vscode,figma,ai,ps,pr,xd)](https://skillicons.dev)
 
 ## 🏃‍♀️ Activities
 [![Mashiro1230's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashiro1230)](https://github.com/Mashiro1230/github-readme-stats).
