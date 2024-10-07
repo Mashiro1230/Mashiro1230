@@ -4,7 +4,7 @@
 -
 
 ## 🌱 Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,docker,figma,mysql,postgres,prisma,firebase,flutter,github,postman,vscode,ai,ps,pr,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,docker,aws,flutter,dart,mysql,postgres,prisma,firebase,figma,github,postman,vscode,ai,ps,pr,xd,ae)](https://skillicons.dev)
 
 ## 🏃‍♀️ Activities
 [![Mashiro1230's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashiro1230)](https://github.com/Mashiro1230/github-readme-stats).
