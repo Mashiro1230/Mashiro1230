@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi there 
+- 
+-
+-
+
+## 🌱 Skills 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,docker,figma,mysql,postgres,prisma,firebase,flutter,github,postman,vscode,ai,ps,pr,xd)](https://skillicons.dev)
+
+## 🏃‍♀️ Activities
 [![Mashiro1230's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashiro1230)](https://github.com/Mashiro1230/github-readme-stats).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashiro1230&layout=compact)](https://github.com/Mashiro1230/github-readme-stats)
 <!--
